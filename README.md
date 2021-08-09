@@ -1,6 +1,6 @@
 # Marketing Analytics
 
-[If you are unable to load or view the code file directly, please use this link: Marketing_Analytics_Analytics.ipynb](https://nbviewer.jupyter.org/github/calvintirrell/Marketing_Analytics_Project/blob/main/Marketing_Analytics_Project.ipynb)
+[If you are unable to load or view the code file directly, please use this link: Marketing_Analytics_Project.ipynb](https://nbviewer.jupyter.org/github/calvintirrell/Marketing_Analytics_Project/blob/main/Marketing_Analytics_Project.ipynb)
 
 Data context: 8 different countries (Australia, USA, Mexico, Spain, India, Germany, Canada and South Africa) represented by 2,240 people.
 
