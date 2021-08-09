@@ -1,7 +1,5 @@
 # Marketing Analytics
 
-[If you are unable to load or view the code file directly, please use this link: Marketing_Analytics.ipynb](https://nbviewer.jupyter.org/github/calvintirrell/Marketing_Analytics/blob/main/Marketing_Analytics.ipynb)
-
 Data context: 8 different countries (Australia, USA, Mexico, Spain, India, Germany, Canada and South Africa) represented by 2,240 people.
 
 - Marketing campaign “Response” was overall the most successful with a 14% response rate.
